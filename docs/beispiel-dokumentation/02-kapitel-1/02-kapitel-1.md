@@ -6,4 +6,6 @@ Eine Überschrift beginnt mit einem oder mehreren Rautezeichen. Für eine Liste 
 
 Auch Links sind einfach einzufügen. Ein relativer Link verweist auf eine Datei innerhalb des Projekts und funktioniert unabhängig davon, wo das Repository gespeichert ist.
 
+[Freizeitaktivitäten für Johanne](03-freizeitaktivitaeten-johanne.md)
+
 [Weiter zu Kapitel 2](../03-kapitel-2/03-kapitel-2.md)
